@@ -1,2 +1,2 @@
 # sd_prj-SFM
-Search Keywords across your local documents
+Search Keywords across your local documents.
